@@ -1,0 +1,6 @@
+INDEX VERSION 1.132+C:\Users\denni\OneDrive\Documents\CSU Global-snuggles\csc320-1\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1285719541.index
+868213884.index
+2550347772.index
+3471503427.index
